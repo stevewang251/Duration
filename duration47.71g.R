@@ -17,7 +17,7 @@
 # read in code for adaptive beta method CIs
 source("~/Documents/Research/Adaptive range extensions/ abm38.3g.R")
 
-# this is a test
+# this is another test
 
 # Draw range chart
 plotrangechart <- function(data, ci)  {
